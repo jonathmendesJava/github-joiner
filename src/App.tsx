@@ -102,7 +102,7 @@ export default function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
               <img
-                src={isScrolled ? "/Fita%20Logo%20(1)%20Fundo%20Branco.png" : "/Fita%20Logo%20(1)%20Fundo%20Preto.png"}
+                src={isScrolled ? "/fita-logo-branco.png" : "/fita-logo-preto.png"}
                 alt="Instituto FITA"
                 className="h-12 sm:h-14 w-auto object-contain"
               />
