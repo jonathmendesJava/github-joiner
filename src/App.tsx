@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { Menu, X, Mail, Linkedin, Building, Phone, MapPin, MessageCircle } from 'lucide-react';
 
 export default function App() {
